@@ -103,11 +103,10 @@ const Chat = () => {
             {auth?.user?.name.split(" ")[1][0]}
           </Avatar>
           <Typography sx={{ mx: "auto", fontFamily: "work sans" }}>
-            You are talking to a ChatBOT
+            Hey there, I'm your virtual assistant.
           </Typography>
           <Typography sx={{ mx: "auto", fontFamily: "work sans", my: 4, p: 3 }}>
-            You can ask some questions related to Knowledge, Business, Advices,
-            Education, etc. But avoid sharing personal information
+            How can I help you? You can ask me anything you want.
           </Typography>
           <Button
             onClick={handleDeleteChats}
@@ -145,7 +144,7 @@ const Chat = () => {
             fontWeight: "600",
           }}
         >
-          Model - gpt-4o-mini
+        gpt-4o-mini
         </Typography>
         <Box
           sx={{

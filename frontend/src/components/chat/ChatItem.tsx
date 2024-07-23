@@ -57,7 +57,7 @@ const ChatItem = ({
           messageBlocks.length &&
           messageBlocks.map((block) =>
             isCodeBlock(block) ? (
-              <SyntaxHighlighter style={coldarkDark} language="javascript">
+              <SyntaxHighlighter style={coldarkDark} language="java">
                 {block}
               </SyntaxHighlighter>
             ) : (
@@ -88,7 +88,7 @@ const ChatItem = ({
           messageBlocks.length &&
           messageBlocks.map((block) =>
             isCodeBlock(block) ? (
-              <SyntaxHighlighter style={coldarkDark} language="javascript">
+              <SyntaxHighlighter style={coldarkDark} language="java">
                 {block}
               </SyntaxHighlighter>
             ) : (
