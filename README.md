@@ -9,7 +9,6 @@ ChatBot is an interactive web application built using modern web technologies, d
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
