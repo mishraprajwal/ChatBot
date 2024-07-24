@@ -119,4 +119,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [OpenAI](https://openai.com/) for providing the AI model.
 - [Material-UI](https://mui.com/) for the UI components.
-- All contributors and supporters of this project.
+- Prajwal Karunesh Mishra.
