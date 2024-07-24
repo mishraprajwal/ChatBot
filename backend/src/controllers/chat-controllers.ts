@@ -23,7 +23,7 @@ export const generateChatCompletion = async (
     const config = configureOpenAI();
     const openai = new OpenAIApi(config);
     const chatResponse = await openai.createChatCompletion({
-      model: "gpt-4o-mini",
+      model: "gpt-4",
       messages: chats,
     });
     user.chats.push(chatResponse.data.choices[0].message);

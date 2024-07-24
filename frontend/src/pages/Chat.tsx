@@ -144,7 +144,7 @@ const Chat = () => {
             fontWeight: "600",
           }}
         >
-        gpt-4o-mini
+        gpt-4
         </Typography>
         <Box
           sx={{
