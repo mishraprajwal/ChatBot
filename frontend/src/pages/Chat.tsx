@@ -137,7 +137,7 @@ const Chat = () => {
       >
         <Typography
           sx={{
-            fontSize: "40px",
+            fontSize: "30px",
             color: "white",
             mb: 2,
             mx: "auto",
